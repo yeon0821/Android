@@ -1,1 +1,1 @@
-# AndroidStudy.
+# AndroidStudy
