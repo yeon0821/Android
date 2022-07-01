@@ -40,7 +40,7 @@
 
 
 
-#### Header/ Payload/ Signature
+#### Header/ Payload/ Signature
 
 1. **Header**
 
